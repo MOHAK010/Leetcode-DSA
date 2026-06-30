@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -44,6 +45,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
