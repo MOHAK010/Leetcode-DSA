@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -33,6 +34,7 @@
 | [0303-range-sum-query-immutable](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,4 +84,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
