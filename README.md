@@ -44,6 +44,7 @@
 | [0001-two-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -106,6 +107,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
