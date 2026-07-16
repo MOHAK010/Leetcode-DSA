@@ -84,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@
 | [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
