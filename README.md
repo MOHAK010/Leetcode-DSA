@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -127,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
