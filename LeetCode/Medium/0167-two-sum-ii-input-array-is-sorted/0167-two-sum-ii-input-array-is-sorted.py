@@ -1,14 +1,17 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        hashmap = {}          # Jo numbers dekh liye unko yaad rakhne ka bag
+        left = 0
+        right = len(numbers) - 1
 
-        for i in range(len(numbers)):      # Ek-ek number uthao
+        while left < right:
 
-            need = target - numbers[i]     # Is number ke saath target banane ke liye aur kya chahiye?
+            current_sum = numbers[left] + numbers[right]
 
-            if need in hashmap:         # Agar wo pehle mil gaya
-                return (hashmap[need]+1, i+1)   # To answer mil gaya
+            if current_sum < target:
+                left += 1
 
-            hashmap[numbers[i]] = i        # Warna is number ko yaad rakh lo
+            elif current_sum > target:
+                right -= 1
 
-        return -1
+            else:
+                return [left+1, right+1]
