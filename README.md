@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
