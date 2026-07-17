@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
@@ -84,6 +85,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -162,4 +164,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
