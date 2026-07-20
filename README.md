@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -89,6 +91,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
