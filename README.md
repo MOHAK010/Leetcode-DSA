@@ -104,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@
 | [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
