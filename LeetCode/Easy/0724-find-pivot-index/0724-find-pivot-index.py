@@ -7,7 +7,7 @@ class Solution:
             right_sum = total_sum - left_sum - nums[i]
 
             if left_sum == right_sum:
-                return i
+                return i 
 
             left_sum += nums[i]
 
