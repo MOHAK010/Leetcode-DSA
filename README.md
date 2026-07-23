@@ -38,6 +38,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
