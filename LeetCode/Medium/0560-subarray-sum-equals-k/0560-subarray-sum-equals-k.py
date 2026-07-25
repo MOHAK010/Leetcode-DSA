@@ -11,6 +11,8 @@ class Solution:
             if prefix_sum - k in prefix_count:
                 count += prefix_count[prefix_sum - k]
 
-            prefix_count[prefix_sum] = prefix_count.get(prefix_sum, 0) + 1
-
+            if prefix_sum in prefix_count:
+                prefix_count[prefix_sum] += 1
+            else:
+                prefix_count[prefix_sum] = 1
         return count
