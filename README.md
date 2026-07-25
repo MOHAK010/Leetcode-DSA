@@ -37,6 +37,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -56,6 +57,7 @@
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -81,6 +83,7 @@
 | [0525-contiguous-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +152,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
