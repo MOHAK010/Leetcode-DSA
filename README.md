@@ -89,6 +89,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -163,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -192,6 +194,7 @@
 | [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Queue
