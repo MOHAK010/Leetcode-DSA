@@ -79,6 +79,7 @@
 | [0036-valid-sudoku](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
@@ -168,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -197,6 +199,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
