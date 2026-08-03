@@ -81,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -167,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -196,6 +198,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
@@ -244,4 +247,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
