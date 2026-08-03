@@ -6,6 +6,8 @@ class Solution:
 
         freq_p = {}
         freq_window = {}
+        left = 0
+        ans = []
 
         # p ki frequency
         for ch in p:
@@ -13,9 +15,6 @@ class Solution:
                 freq_p[ch] = 1
             else:
                 freq_p[ch] += 1
-
-        left = 0
-        ans = []
 
         for right in range(len(s)):
 
