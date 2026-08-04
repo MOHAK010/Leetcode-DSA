@@ -48,6 +48,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Simulation
@@ -123,6 +124,7 @@
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
