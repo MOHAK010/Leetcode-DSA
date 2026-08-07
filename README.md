@@ -43,6 +43,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -127,6 +128,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
