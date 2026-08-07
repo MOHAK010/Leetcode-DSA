@@ -38,6 +38,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -125,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
@@ -153,6 +155,7 @@
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,4 +278,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
