@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -123,6 +124,7 @@
 | [0042-trapping-rain-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
