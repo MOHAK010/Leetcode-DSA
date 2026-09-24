@@ -170,6 +170,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0507-perfect-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Design
 | Problem Name | Difficulty |
