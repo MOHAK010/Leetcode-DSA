@@ -54,6 +54,7 @@
 | [1695-maximum-erasure-value](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
@@ -126,6 +127,7 @@
 | [0414-third-maximum-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
