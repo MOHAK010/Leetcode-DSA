@@ -132,6 +132,7 @@
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -178,6 +179,7 @@
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0507-perfect-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -301,4 +303,12 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
