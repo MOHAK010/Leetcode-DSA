@@ -55,6 +55,7 @@
 | [1732-find-the-highest-altitude](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@
 | [0507-perfect-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Design
@@ -302,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -311,4 +314,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
