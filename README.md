@@ -175,6 +175,7 @@
 | [0258-add-digits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0507-perfect-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
