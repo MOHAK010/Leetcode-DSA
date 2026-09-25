@@ -275,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+| [2595-number-of-even-and-odd-bits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
