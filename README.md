@@ -30,6 +30,7 @@
 | [0238-product-of-array-except-self](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -163,6 +164,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -228,6 +230,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -294,6 +297,7 @@
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0268-missing-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -337,4 +341,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
