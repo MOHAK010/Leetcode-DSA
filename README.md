@@ -44,6 +44,7 @@
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -137,6 +138,7 @@
 | [0414-third-maximum-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -173,6 +175,7 @@
 | [0567-permutation-in-string](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
