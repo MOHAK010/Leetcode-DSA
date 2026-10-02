@@ -53,6 +53,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
