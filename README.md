@@ -40,6 +40,7 @@
 | [0525-contiguous-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -245,6 +246,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0704-binary-search](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## String
