@@ -68,6 +68,7 @@
 | [1929-concatenation-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@
 | [0011-container-with-most-water](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +319,7 @@
 | [0268-missing-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +370,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
 <!---LeetCode Topics End-->
