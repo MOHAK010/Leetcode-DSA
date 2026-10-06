@@ -45,6 +45,7 @@
 | [0724-find-pivot-index](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -144,6 +145,7 @@
 | [0414-third-maximum-number](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -193,6 +195,7 @@
 | [0053-maximum-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/MOHAK010/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0918-maximum-sum-circular-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -289,10 +292,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,4 +379,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Hard/3068-find-the-maximum-sum-of-node-values/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/MOHAK010/Leetcode-DSA/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
